@@ -1,11 +1,14 @@
 azure:
   activedirectory:
     # Specifies your Active Directory ID:
-    tenant-id: 046e862a-6111-4a3c-b8fd-fdd606cc816f
+    tenant-id: ec2f2f6c-1535-436d-b09f-1cefe881dcae
+    #046e862a-6111-4a3c-b8fd-fdd606cc816f
     # Specifies your App Registration's Application ID:
-    client-id: f8ffcfce-7dcb-4f77-8d2d-be24bed17ef2
+    client-id: 10833eb5-74cf-46bd-a54c-b83d46df550b
+    #f8ffcfce-7dcb-4f77-8d2d-be24bed17ef2
     # Specifies your App Registration's secret key:
-    client-secret: dhN8Q~h7XahBEpdh6-uWm2r_STqs6PDt1Kn.Fbt-
+    client-secret: mW~8Q~LwXX.wPzeIHats9kkNZa~Vk5QKID068bWP
+    #dhN8Q~h7XahBEpdh6-uWm2r_STqs6PDt1Kn.Fbt-
     # Specifies the post-log-out-redirect-uri, where to return your app after logout.
     post-logout-redirect-uri: http://localhost:8080
     # Specifies the Microsoft Graph scopes that your app needs access to - not required in this app.
